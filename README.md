@@ -1,6 +1,6 @@
 ### Welcome! 👋🏼
 
-Hi there! I'm Ji, a postgraduate student in natural language processing at INALCO, France. Currently learning machine learning and deep learning algorithms through DeepLearning.AI's specializations on Coursera, I'm also seeking my first relevant internship in the field of data science or computational linguistics in Paris.
+Hi there! I'm Ji, a graduate student pursuing my master's degree in natural language processing in Paris. Currently learning machine learning and deep learning algorithms through DeepLearning.AI's specializations on Coursera, I'm also seeking my first relevant internship in the field of data science.
 
 <!--
 **an-kei/an-kei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
