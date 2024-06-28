@@ -1,6 +1,11 @@
-### Welcome! 👋🏼
+### Welcome to my GitHub 😺
 
-Hi there! I'm Ji, a graduate student pursuing my master's degree in natural language processing in Paris. Currently learning machine learning and deep learning algorithms through DeepLearning.AI's specializations on Coursera, I'm also seeking my first relevant internship in the field of data science.
+Hi there! I'm Ji An, a graduate student specializing in NLP. 
+
+As a fan of Prof. Andrew Ng, I love learning DeepLearning.AI's specializations on Coursera (and of course, they are a must), although it has been a while since I last opened their videos ... 🤡 
+
+Currently, I'm working on a project called Chine CoREF. Funded by the French Ministry of Higher Education and Research, this initiative will support humanities and social science research on contemporary China.
+
 
 <!--
 **an-kei/an-kei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
