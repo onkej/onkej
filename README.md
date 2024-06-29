@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 😺
 
-Hi there! I'm Ji An, a graduate student specializing in NLP. 
+Hi there! I'm a graduate student specializing in NLP at Inalco, Paris. 
 
 As a fan of Prof. Andrew Ng, I love learning DeepLearning.AI's specializations on Coursera (and of course, they are a must), although it has been a while since I last opened their videos ... 🤡 
 
