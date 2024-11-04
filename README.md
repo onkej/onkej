@@ -1,6 +1,6 @@
 ### Welcome 😺
 
-Hi, I'm a graduate student specializing in NLP/linguistics at Inalco, Paris. 
+<!-- Hi, I'm a graduate student specializing in NLP/linguistics at Inalco, Paris. -->
 
 
 <!--
