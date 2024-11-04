@@ -1,10 +1,6 @@
-### Welcome to my GitHub 😺
+### Welcome 😺
 
-Hi there! I'm a graduate student specializing in NLP at Inalco, Paris. 
-
-As a dedicated fan (? of Prof. Andrew Ng, I love learning DeepLearning.AI's specializations on Coursera (that said, it has been quite a while since I last opened their videos). 🤡 
-
-Currently, I'm working on a project called Chine CoREF. Funded by the French Ministry of Higher Education and Research, this initiative will support humanities and social science research on contemporary China.
+Hi, I'm a graduate student specializing in NLP/linguistics at Inalco, Paris. 
 
 
 <!--
